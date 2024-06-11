@@ -1,5 +1,5 @@
-# skill- issue
-Resources to become cracked
+# skill-issue
+Learning resources hub
 
 ## CS
 
