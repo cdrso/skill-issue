@@ -63,7 +63,7 @@ Learning resources hub
 - **Publisher:** Prentice-Hall
 - **Link (Internet Archive):** [link](https://archive.org/details/disciplineofprog0000dijk/mode/2up)
 
-#### The Correctness- by-Construction Approach to Programming
+#### The Correctness-by-Construction Approach to Programming
 - **Author(s):** Derrick G. Kourie, Bruce W. Watson
 - **Year:** 2012 (1st Edition)
 - **Publisher:** Springer
@@ -126,7 +126,7 @@ Learning resources hub
 - **Publisher:** McDougal Littell/Houghton Mifflin
 - **Link (Internet Archive):** [link](https://archive.org/details/geometry00brow)
 
-#### Finite- Dimensional Vector Spaces
+#### Finite-Dimensional Vector Spaces
 - **Author(s):** Paul R. Halmos
 - **Year:** 1958 (1st Edition)
 - **Publisher:** Springer New York, NY
