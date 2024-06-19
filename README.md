@@ -80,6 +80,26 @@ Learning resources hub
 - **Publisher:** Microsoft Press
 - **Link (Internet Archive):** [link](https://archive.org/details/CharlesPetzoldCodeTheHiddenLanguageOfComputerHardwareAndSoftwareMicrosoftPress2000/mode/2up)
 
+### MIT OpenCourseWare
+
+#### Introduction to Algorithms
+- **Instructor(s):** Eric Demaine, Jason Ku, Justin Solomon
+- **Year:** 2020
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+
+#### Performance Engineering of Software Systems
+- **Instructor(s):** Charles Leiserson, Julian Shun
+- **Year:** 2018
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
+
+#### Theory of Computation
+- **Instructor(s):** Michael Sipser
+- **Year:** 2020
+- **Level:** Undergraduate, Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+
 ## Mathematics
 
 ### Books
@@ -167,6 +187,38 @@ Learning resources hub
 - **Year:** 2017 (1st Edition)
 - **Publisher:** Pearson
 
+### MIT OpenCourseWare
+
+#### Linear Algebra
+- **Instructor(s):** Gilbert Strang
+- **Year:** 2011
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+
+#### Single Variable Calculus
+- **Instructor(s):** David Jerison
+- **Year:** 2006
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+
+#### Multivariable Calculus
+- **Instructor(s):** Denis Auroux
+- **Year:** 2007
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
+
+#### Mathematics for Computer Science
+- **Instructor(s):** Tom Leighton, Marten Van Dijk
+- **Year:** 2010
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+
+#### Statistics for Applications
+- **Instructor(s):** Philippe Rigollet
+- **Year:** 2016
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/)
+
 ### Papers
 
 #### Mathematicians and the Selection Task
@@ -213,6 +265,13 @@ Learning resources hub
 - **Year:** 2011
 - **Publisher:** World Scientific Publishing Company
 
+### MIT OpenCourseWare
+
+#### Topics in Mathematics with Applications in Finance
+- **Instructor(s):** Peter Kempthorne, Choongburn Lee, Vasily Strela, Jake Xia
+- **Year:** 2013
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
 
 
