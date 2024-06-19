@@ -1,5 +1,5 @@
 # skill-issue
-Learning resources hub
+Go learn something
 
 ## CS
 
