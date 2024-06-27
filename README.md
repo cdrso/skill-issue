@@ -195,6 +195,12 @@ Go learn something
 - **Level:** Undergraduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
+#### Matrix Methods In Data Analysis, Signal Processing, And Machine Learning
+- **Instructor(s):** Gilbert Strang
+- **Year:** 2018
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+
 #### Single Variable Calculus
 - **Instructor(s):** David Jerison
 - **Year:** 2006
