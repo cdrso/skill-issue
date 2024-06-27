@@ -88,6 +88,18 @@ Go learn something
 - **Level:** Undergraduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
+#### Advanced Data Structures
+- **Instructor(s):** Eric Demaine
+- **Year:** 2012
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/)
+
+#### Algorithmic Lower Bounds: Fun With Hardness Proofs
+- **Instructor(s):** Eric Demaine
+- **Year:** 2014
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
+
 #### Performance Engineering of Software Systems
 - **Instructor(s):** Charles Leiserson, Julian Shun
 - **Year:** 2018
@@ -224,6 +236,18 @@ Go learn something
 - **Year:** 2016
 - **Level:** Undergraduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/)
+
+#### Probabilistic Systems Analysis And Applied Probability
+- **Instructor(s):** John Tsitsiklis
+- **Year:** 2010
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
+
+#### Introduction to Modeling and Simulation
+- **Instructor(s):** Markus Buehler, Jeffrey Grossman
+- **Year:** 2012
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/)
 
 ### Papers
 
