@@ -112,6 +112,12 @@ Go learn something
 - **Level:** Undergraduate, Graduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 
+#### Engineering Innovation And Design
+- **Instructor(s):** Blade Kotelly, Joel E Schindall
+- **Year:** 2012
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/esd-051j-engineering-innovation-and-design-fall-2012/)
+
 ## Mathematics
 
 ### Books
@@ -303,8 +309,31 @@ Go learn something
 - **Level:** Undergraduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
+## Business
 
+### MIT OpenCourseWare
 
+#### Nuts And Bolts Of Business Plans
+- **Instructor(s):** Joseph Hadzima
+- **Year:** 2014
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/)
 
+#### The Analytics Edge
+- **Instructor(s):** Dimitris Bertsimas
+- **Year:** 2017
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/)
 
+#### How To Develop "Breakthrough" Products And Services
+- **Instructor(s):** Eric von Hippel
+- **Year:** 2004
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/)
+
+#### FinTech: Shaping The Financial World
+- **Instructor(s):** Gary Gensler
+- **Year:** 2020
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/)
 
