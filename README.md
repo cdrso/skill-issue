@@ -88,6 +88,18 @@ Go learn something
 - **Level:** Undergraduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
+#### Advanced Data Structures
+- **Instructor(s):** Eric Demaine
+- **Year:** 2012
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/)
+
+#### Algorithmic Lower Bounds: Fun With Hardness Proofs
+- **Instructor(s):** Eric Demaine
+- **Year:** 2014
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
+
 #### Performance Engineering of Software Systems
 - **Instructor(s):** Charles Leiserson, Julian Shun
 - **Year:** 2018
@@ -99,6 +111,12 @@ Go learn something
 - **Year:** 2020
 - **Level:** Undergraduate, Graduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+
+#### Engineering Innovation And Design
+- **Instructor(s):** Blade Kotelly, Joel E Schindall
+- **Year:** 2012
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/esd-051j-engineering-innovation-and-design-fall-2012/)
 
 ### YT Talks
 
@@ -224,6 +242,12 @@ Go learn something
 - **Level:** Undergraduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
+#### Matrix Methods In Data Analysis, Signal Processing, And Machine Learning
+- **Instructor(s):** Gilbert Strang
+- **Year:** 2018
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+
 #### Single Variable Calculus
 - **Instructor(s):** David Jerison
 - **Year:** 2006
@@ -247,6 +271,18 @@ Go learn something
 - **Year:** 2016
 - **Level:** Undergraduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/)
+
+#### Probabilistic Systems Analysis And Applied Probability
+- **Instructor(s):** John Tsitsiklis
+- **Year:** 2010
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
+
+#### Introduction to Modeling and Simulation
+- **Instructor(s):** Markus Buehler, Jeffrey Grossman
+- **Year:** 2012
+- **Level:** Undergraduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/)
 
 ### Papers
 
@@ -307,8 +343,31 @@ Go learn something
 - **Level:** Undergraduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
+## Business
 
+### MIT OpenCourseWare
 
+#### Nuts And Bolts Of Business Plans
+- **Instructor(s):** Joseph Hadzima
+- **Year:** 2014
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/)
 
+#### The Analytics Edge
+- **Instructor(s):** Dimitris Bertsimas
+- **Year:** 2017
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/)
 
+#### How To Develop "Breakthrough" Products And Services
+- **Instructor(s):** Eric von Hippel
+- **Year:** 2004
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/)
+
+#### FinTech: Shaping The Financial World
+- **Instructor(s):** Gary Gensler
+- **Year:** 2020
+- **Level:** Graduate
+- **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/)
 
