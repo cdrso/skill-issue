@@ -100,6 +100,35 @@ Go learn something
 - **Level:** Undergraduate, Graduate
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 
+### YT Talks
+
+#### CppCon 2014: Mike Acton "Data-Oriented Design and C++"
+- **Speaker(s):** Mike Acton
+- **Year:** 2014
+- **Link (YouTube):** [link](https://youtu.be/rX0ItVEVjHc?si=cwHUlXOQPWdL4hUA)
+
+#### code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care
+- **Speaker(s):** Scott Meyers
+- **Year:** 2014
+- **Link (YouTube):** [link](https://youtu.be/rX0ItVEVjHc?si=cwHUlXOQPWdL4hUA)
+
+### Papers
+
+#### What Every Computer Scientist Should Know About Floating-Point Arithmetic
+- **Author(s):** David Goldberg
+- **Year:** 1991
+- **Link (Oracle):** [link](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+
+#### What Every Computer Scientist Should Know About Memory
+- **Author(s):** Ulrich Drepper
+- **Year:** 2007
+- **Link (FreeBSD):** [link](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
+#### Cache-Oblivious Algorithms and Data Structures
+- **Author(s):** Eric Demaine
+- **Year:** 2002
+- **Link (Eric Demaine):** [link](https://erikdemaine.org/papers/BRICS2002/paper.pdf)
+
 ## Mathematics
 
 ### Books
@@ -220,6 +249,11 @@ Go learn something
 - **Link (OpenCourseWare):** [link](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/)
 
 ### Papers
+
+#### Randomized Numerical Linear Algebra : A Perspective on the Field With an Eye to Software
+- **Author(s):** Riley Murray, James Demmel, Michael W. Mahoney, N. Benjamin Erichson, Maksim Melnichenko, Osman Asif Malik, Laura Grigori, Piotr Luszczek, Michał Dereziński, Miles E. Lopes, Tianyu Liang, Hengrui Luo, Jack Dongarra
+- **Year:** 2023
+- **Link (Arxiv):** [link](https://arxiv.org/abs/2302.11474)
 
 #### Mathematicians and the Selection Task
 - **Author(s):** Matthew Inglis, Adrian Simpson
